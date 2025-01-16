@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Amisha Singh</font></h1>
-<h3 align="center"><font face="Arial">I'm a passionate Web Developer with a focus on creating dynamic and user-friendly websites and web applications. I'm excited to bring my skills and creativity to product-based challenges and make an impact. Let's connect!</font></h3>
+<h3 align="center"><font face="Arial">I'm a passionate Web Developer with a focus on creating dynamic and user-friendly websites and web applications. I'm excited to bring my skills and creativity to product-based challenges and make an impact.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
