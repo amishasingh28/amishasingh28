@@ -1,55 +1,81 @@
-<!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Amisha Singh</font></h1>
-<h3 align="center"><font face="Arial">Amisha is a passionate Web Developer from [Your Location], building dynamic and interactive websites and web applications. Feel free to reach out for any Freelance Projects.</font></h3>
+<!-- Header Section with Animation -->
+<h1 align="center"><font face="Arial" style="animation: fadeIn 2s;">Hi 👋, I'm Amisha Singh</font></h1>
+<h3 align="center"><font face="Arial" style="animation: fadeIn 2s;">I'm a passionate Web Developer with a focus on creating dynamic and user-friendly websites and web applications. I'm excited to bring my skills and creativity to product-based challenges and make an impact. Let's connect!</font></h3>
 
-<!-- GIF -->
-<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<!-- GIF with fade-in effect -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" style="animation: slideIn 3s;"/>
 
-<!-- My background includes -->
-<h3 align="left"><font size="+2" face="Verdana">My background includes:</font></h3>
+<!-- My background includes with animation -->
+<h3 align="left"><font size="+2" face="Verdana" style="animation: slideIn 2s;">My background includes:</font></h3>
 
-**- Developing dynamic and responsive web applications**
+**- Designing and building responsive websites**
 
-**- Creating and maintaining user interfaces**
+**- Developing front-end applications with a focus on performance and user experience**
 
-**- Optimizing website performance**
+**- Collaborating with cross-functional teams to build and deploy web solutions**
 
-**- Collaborating with design teams to bring ideas to life**
+I am passionate about building products that solve real-world problems and thrive in fast-paced, innovative environments.
 
-I thrive in collaborative environments and am always excited to learn new web technologies and techniques.
+<!-- Languages and Tools Section with animation -->
+<h3 align="left"><font size="+2" face="Verdana" style="animation: fadeIn 3s;">Languages and Tools:</font></h3>
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
-- I work on Web Development, creating full-stack applications and everything around it.
-- I’m looking to collaborate on **Web-based Projects**
+- I specialize in web development, focusing on front-end technologies and frameworks.
+- I'm looking to collaborate on innovative product-based projects that challenge my skills and creativity.
 
 #### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" title="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="html" title="html" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css" width="40" height="40"/></p>
-
-#### OS Stack
-<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centos" title="centos" width="40" height="40"/></p>
-
-#### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" title="mongodb" width="40" height="40"/></p>
-
-#### Dev Stack
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_react.svg" alt="react" title="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" title="angular" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" title="vuejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" title="sass" width="40" height="40"/></p>
-
-#### DevOps Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" title="gitlab" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/></p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
-
-#### Editor / IDE I ❤️
-<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/></p>
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
-<p align="left">
+<p align="left" style="animation: zoomIn 3s;">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" title="javascript" width="40" height="40"/>  
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" title="html" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" title="css" width="40" height="40"/> 
 </p>
 
-- 💬 Ask me about **Frontend Development, Web Design, Full-stack Development**
-- 📫 How to reach me **[amisha.singh2812@gmail.com](mailto:amisha.singh2812@gmail.com)** & **[LinkedIn](https://www.linkedin.com/in/amisha-singh-6415702a7/)**
-- ⚡ Fun fact **I love exploring new frameworks and libraries!**
+#### Web Frameworks & Libraries
+<p align="left" style="animation: zoomIn 3s;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/React.js_logo_2017.svg" alt="react" title="React" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Vue.js_Logo_2.svg" alt="vue" title="Vue.js" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Nextjs-logo.svg" alt="nextjs" title="Next.js" width="40" height="40"/> 
+</p>
+
+#### Development Tools
+<p align="left" style="animation: zoomIn 3s;">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/github/explore/9fca43a24c23c575234ce2d5e426abdd4f2ab60a/topics/github/github.png" alt="github" title="GitHub" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/npm/npm-icon.svg" alt="npm" title="npm" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/webpack/webpack-icon.svg" alt="webpack" title="Webpack" width="40" height="40"/> 
+</p>
+
+#### Design Tools
+<p align="left" style="animation: zoomIn 3s;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Figma-logo.svg" alt="figma" title="Figma" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Sketch_Logo.png" alt="sketch" title="Sketch" width="40" height="40"/> 
+</p>
+
+#### Editor / IDE I ♥
+<p align="left" style="animation: zoomIn 3s;">
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
+</p>
+
+<!-- Contact Section with animation -->
+<h3 align="left"><font size="+2" face="Verdana" style="animation: fadeIn 4s;">Let's Connect:</font></h3>
+<p align="left" style="animation: fadeIn 4s;">
+  - 💬 Ask me about **Web Development, Front-End Technologies, Product Development**
+  - 📫 How to reach me **[amishasingh@example.com](mailto:amishasingh@example.com)** & **[LinkedIn](https://www.linkedin.com/in/amisha-singh/)**
+  - ⚡ Fun fact **I love exploring new tech and building fun side projects**
+</p>
+
+<!-- CSS Animations -->
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  @keyframes slideIn {
+    0% { transform: translateX(-100%); opacity: 0; }
+    100% { transform: translateX(0); opacity: 1; }
+  }
+  @keyframes zoomIn {
+    0% { transform: scale(0); opacity: 0; }
+    100% { transform: scale(1); opacity: 1; }
+  }
+</style>
