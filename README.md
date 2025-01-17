@@ -50,6 +50,21 @@ I thrive in collaborative environments and am always excited to learn new web te
 <p align="left">
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amishasingh28&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amishasingh28&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amishasingh28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amishasingh28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amishasingh28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=amishasingh28&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 - 💬 Ask me about **Frontend Development, Web Design, Full-stack Development**
 - 📫 How to reach me **[amisha.singh2812@gmail.com](mailto:amisha.singh2812@gmail.com)** & **[LinkedIn](https://www.linkedin.com/in/amisha-singh-6415702a7/)**
 - ⚡ Fun fact **I love exploring new frameworks and libraries!**
