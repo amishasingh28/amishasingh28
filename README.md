@@ -54,10 +54,10 @@ I thrive in collaborative environments and am always excited to learn new web te
 ![](https://github-profile-trophy.vercel.app/?username=amishasingh28&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=amishasingh28&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!--![](https://github-contributor-stats.vercel.app/api?username=amishasingh28&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
-<!--[![](https://visitcount.itsvg.in/api?id=amishasingh28&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=amishasingh28&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- Contact Section -->
 <h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
