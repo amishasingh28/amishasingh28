@@ -55,9 +55,7 @@ I thrive in collaborative environments and am always excited to learn new web te
 
 ### 🔝 Top Contributed Repos
 
-- [Weather_Application](https://github.com/amishasingh28/Weather_Application)
-- [Sign-Language-Detection](https://github.com/amishasingh28/Sign-Language-Detection)
-- [amishasingh28](https://github.com/amishasingh28)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amishasingh28&hide=Weather-App&theme=dark)
 
 
 
